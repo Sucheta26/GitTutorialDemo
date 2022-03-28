@@ -1,0 +1,12 @@
+this is vesion 1 of the project
+
+This is a git tutorial and i am going into commit
+
+first text document
+
+this is changed document
+
+
+
+
+

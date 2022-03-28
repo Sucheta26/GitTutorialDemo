@@ -1,0 +1,3 @@
+Static text article
+
+text in a static directory/folder
